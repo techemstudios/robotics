@@ -73,6 +73,7 @@ Tags: techcamp, computer science, robot
     + After this program runs, your robot will show a green light (if you have your robot directly plugged in to run arduino) or will blink red (if you are trying to connect via bluetooth) and is now ready to accept instructions!  
     + Now go back to Arduino and upload the code    
 [Follow the steps in this video link to run the prog.bash/prog.bat](<https://www.youtube.com/embed/BQvLqbQ0q_Q>)  
+    + Make sure the Arduino driver has been installed before running the above command.
 
 Further issues could be due to the 'whiskers' or antennae on the robot.
 
